@@ -1,3 +1,6 @@
+from Transport import Transport
+
+
 # Create the class Train, inherit from the class Transport
 class Train(Transport):
     """Train class"""
