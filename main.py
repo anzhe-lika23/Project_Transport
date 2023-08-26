@@ -1,3 +1,9 @@
+from Transport import Transport
+from Car import Car
+from Train import Train
+from Express import Express
+
+
 transport1 = Transport(60, "no", 2020, 25)
 car1 = Car(90, "газ", 2000, 150, "Ford", 10)
 car2 = Car(100, "бензин", 2020, 70, "Volkswagen", -5)
