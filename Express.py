@@ -1,3 +1,6 @@
+from Train import Train
+
+
 # Create the Express class, inherit from the Train class
 class Express(Train):
     """Class express"""
